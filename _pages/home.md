@@ -33,7 +33,7 @@ feature_row:
     excerpt: "正在更新。"
     url: "/from creators/why/"
     btn_label: "查看"
-  - image_path: /assets/images/why.jpg
+  - image_path: /assets/images/Why.jpg
     alt: "why"
     title: "我为什么做螺丝起子？"
     excerpt: "螺丝起子源于我对「校园焦虑症」的担心，焦虑的学生不顾一切地重复着别人的活动，忘掉了真正重要的东西，「创造自己的模式」。"
