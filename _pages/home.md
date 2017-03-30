@@ -27,7 +27,7 @@ feature_row:
     excerpt: "做英雄有多难？能有多难？周五我们来聊聊做自己的英雄（还能活下来）的故事。"
     url: "/talk/heros/"
     btn_label: "查看"
-  - image_path: /assets/images/why?.jpg
+  - image_path: /assets/images/whydo.jpg
     alt: "why"
     title: "我为什么做螺丝起子？"
     excerpt: "螺丝起子源于我对「校园焦虑症」的担心，焦虑的学生不顾一切地重复着别人的活动，忘掉了真正重要的东西，「创造自己的模式」。"
@@ -35,7 +35,7 @@ feature_row:
     btn_label: "查看"
 
 intro:
-  - excerpt: '扫码关注我们的动向 &nbsp; [微信公众号](https://ww3.sinaimg.cn/large/006tNc79gy1fdp4n6s7n9j3076076gm2.jpg){: .btn .btn--success}'
+  - excerpt: '扫码关注我们的动向 &nbsp; [微信公众号](https://ww3.sinaimg.cn/large/006tNc79gy1fdp4n6s7n9j3076076gm2.jpg){: .btn .btn--success}
 ---
 {% include feature_row id="intro" type="center" %}
 
