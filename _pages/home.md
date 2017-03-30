@@ -21,17 +21,17 @@ excerpt: '
 <br>
 '
 feature_row:
-  - image_path: /assets/images/notes-0.jpg
-    alt: "why"
-    title: "第0期笔记"
-    excerpt: "正在更新。"
-    url: "/from creators/why/"
+  - image_path: /assets/images/tool.jpg
+    alt: "tool"
+    title: "思维模式"
+    excerpt: "思维模式是帮助思考的「 工具」，让我们能更好的决策，这篇笔记是一个小小的总结，事实上，生活处处都是模式。"
+    url: "/notes/mindtools/"
     btn_label: "查看"
   - image_path: /assets/images/tool.jpg
-    alt: "why"
-    title: "思维模式集"
-    excerpt: "正在更新。"
-    url: "/from creators/why/"
+    alt: "hero"
+    title: "做自己的英雄"
+    excerpt: "做自己有多难？能有多难？我们来聊聊做自己的英雄（还能活下来）的故事。"
+    url: "/talk/heros/"
     btn_label: "查看"
   - image_path: /assets/images/Why.jpg
     alt: "why"
