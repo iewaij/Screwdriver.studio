@@ -21,19 +21,13 @@ excerpt: '
 <br>
 '
 feature_row:
-  - image_path: /assets/images/tool.jpg
-    alt: "tool"
-    title: "思维模式"
-    excerpt: "思维模式是帮助思考的「 工具」，让我们能更好的决策，这篇笔记是一个小小的总结，事实上，生活处处都是模式。"
-    url: "/notes/mindtools/"
-    btn_label: "查看"
-  - image_path: /assets/images/tool.jpg
+  - image_path: /assets/images/hero.jpg
     alt: "hero"
     title: "做自己的英雄"
     excerpt: "做自己有多难？能有多难？我们来聊聊做自己的英雄（还能活下来）的故事。"
     url: "/talk/heros/"
     btn_label: "查看"
-  - image_path: /assets/images/Why.jpg
+  - image_path: /assets/images/why.jpg
     alt: "why"
     title: "我为什么做螺丝起子？"
     excerpt: "螺丝起子源于我对「校园焦虑症」的担心，焦虑的学生不顾一切地重复着别人的活动，忘掉了真正重要的东西，「创造自己的模式」。"
