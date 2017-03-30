@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "订阅日历"
-    url: "webcal://p27-calendars.icloud.com/published/2/NHDDo3ZW5QQZtvii2iYOTFHW4Km2_At1VcZDbY1p2cp-RLswf2tk_S6UBr5NauLST3cXdR9XNeoon_lMr7g8qtwfSxsD_fS9UVmG8U4Vx1g"
-#   - title: "关于"
-#     url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://calendar.google.com/calendar/embed?src=t57uaulbs5v2p911ikugdf9lfs%40group.calendar.google.com&ctz=Asia/Shanghai
+  - title: "关于"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
 #   - title: "Sample Posts"
 #     url: /year-archive/
 #   - title: "Sample Collections"

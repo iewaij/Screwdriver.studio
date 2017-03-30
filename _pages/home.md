@@ -1,25 +1,11 @@
 ---
 layout: splash
 permalink: /
-title: " "
 header:
-  overlay_image: https://ww4.sinaimg.cn/large/006tKfTcgy1fdp4pslab9j31kw11s7wr.jpg
-  overlay_filter: 0.5
-  overlay_color: "#5e616c"
-excerpt: '
-如果觉得现在的你和一个大机器里的螺丝毫无区别，
-<br>
-那就和螺丝起子一起逃离机器。
-<br>
-<br>
-我们召集对世界充满好奇并有创造欲望的个体，
-<br>
-通过课堂讨论、导师以及投资支持，
-<br>
-为未来的创变者，你，提供帮助。
-<br>
-<br>
-'
+  overlay_image: /assets/images/desktop.jpg
+  overlay_filter: 0
+  overlay_color: 
+excerpt: '螺丝起子和你一起逃离机器，让存在成为乐趣。<br/> Do things you are passionate about, not people talk about.<br/>'
 feature_row:
   - image_path: /assets/images/hero.jpg
     alt: "hero"
@@ -33,10 +19,10 @@ feature_row:
     excerpt: "螺丝起子源于我对「校园焦虑症」的担心，焦虑的学生不顾一切地重复着别人的活动，忘掉了真正重要的东西，「创造自己的模式」。"
     url: "/from creators/why/"
     btn_label: "查看"
-
 intro:
-  - excerpt: '扫码关注我们的动向 &nbsp; [微信公众号](https://ww3.sinaimg.cn/large/006tNc79gy1fdp4n6s7n9j3076076gm2.jpg){: .btn .btn--success}
+  - excerpt: '关注我们的动向 &nbsp; [微信公众号](https://ww3.sinaimg.cn/large/006tNc79gy1fdp4n6s7n9j3076076gm2.jpg){: .btn .btn--success} [谷歌公共日历](https://calendar.google.com/calendar/embed?src=t57uaulbs5v2p911ikugdf9lfs%40group.calendar.google.com&ctz=Asia/Shanghai){: .btn .btn--danger}'
 ---
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
