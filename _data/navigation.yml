@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "订阅日历"
-    url: webcal://p27-calendars.icloud.com/published/2/NHDDo3ZW5QQZtvii2iYOTFHW4Km2_At1VcZDbY1p2cp-RLswf2tk_S6UBr5NauLST3cXdR9XNeoon_lMr7g8qtwfSxsD_fS9UVmG8U4Vx1g
+    url: "webcal://p27-calendars.icloud.com/published/2/NHDDo3ZW5QQZtvii2iYOTFHW4Km2_At1VcZDbY1p2cp-RLswf2tk_S6UBr5NauLST3cXdR9XNeoon_lMr7g8qtwfSxsD_fS9UVmG8U4Vx1g"
 #   - title: "关于"
 #     url: https://mmistakes.github.io/minimal-mistakes/about/
 #   - title: "Sample Posts"
