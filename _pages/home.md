@@ -24,10 +24,10 @@ feature_row:
   - image_path: /assets/images/hero.jpg
     alt: "hero"
     title: "做自己的英雄"
-    excerpt: "做自己有多难？能有多难？我们来聊聊做自己的英雄（还能活下来）的故事。"
+    excerpt: "做英雄有多难？能有多难？周五我们来聊聊做自己的英雄（还能活下来）的故事。"
     url: "/talk/heros/"
     btn_label: "查看"
-  - image_path: /assets/images/why.jpg
+  - image_path: /assets/images/why?.jpg
     alt: "why"
     title: "我为什么做螺丝起子？"
     excerpt: "螺丝起子源于我对「校园焦虑症」的担心，焦虑的学生不顾一切地重复着别人的活动，忘掉了真正重要的东西，「创造自己的模式」。"
