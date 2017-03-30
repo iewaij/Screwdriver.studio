@@ -20,7 +20,7 @@ feature_row:
     url: "/from creators/why/"
     btn_label: "查看"
 intro:
-  - excerpt: '关注我们的动向 &nbsp; [微信公众号](https://ww3.sinaimg.cn/large/006tNc79gy1fdp4n6s7n9j3076076gm2.jpg){: .btn .btn--success} [谷歌公共日历](https://calendar.google.com/calendar/embed?src=t57uaulbs5v2p911ikugdf9lfs%40group.calendar.google.com&ctz=Asia/Shanghai){: .btn .btn--danger}'
+  - excerpt: '关注我们的动向 &nbsp; [微信公众号](https://ww3.sinaimg.cn/large/006tNc79gy1fdp4n6s7n9j3076076gm2.jpg){: .btn .btn--success} [Google 公共日历](https://calendar.google.com/calendar/ical/t57uaulbs5v2p911ikugdf9lfs%40group.calendar.google.com/public/basic.ics){: .btn .btn--danger}'
 ---
 
 {% include feature_row id="intro" type="center" %}

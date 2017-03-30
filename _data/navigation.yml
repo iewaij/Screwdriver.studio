@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "订阅日历"
-    url: https://calendar.google.com/calendar/embed?src=t57uaulbs5v2p911ikugdf9lfs%40group.calendar.google.com&ctz=Asia/Shanghai
-  - title: "关于"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Google 日历"
+    url: https://calendar.google.com/calendar/ical/t57uaulbs5v2p911ikugdf9lfs%40group.calendar.google.com/public/basic.ics
 #   - title: "Sample Posts"
 #     url: /year-archive/
 #   - title: "Sample Collections"
