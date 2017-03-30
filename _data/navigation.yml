@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Google 日历"
-    url: https://calendar.google.com/calendar/ical/t57uaulbs5v2p911ikugdf9lfs%40group.calendar.google.com/public/basic.ics
-#   - title: "Sample Posts"
-#     url: /year-archive/
+  - title: "日历"
+    url: /cal
+  - title: "联系我们"
+    url: /contact
 #   - title: "Sample Collections"
 #     url: /collection-archive/
 #   - title: "Sitemap"

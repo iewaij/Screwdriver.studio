@@ -5,7 +5,7 @@ header:
   overlay_image: https://ww4.sinaimg.cn/large/006tKfTcgy1fdp4pslab9j31kw11s7wr.jpg
   overlay_filter: 0.6
   overlay_color: #22313F
-excerpt: '螺丝起子和你一起逃离机器，让存在成为乐趣。<br/> Do things you are passionate about, not people talk about.<br/>'
+excerpt: '螺丝起子和你一起逃离机器。<br/> Do things you are passionate about, not people talk about.<br/>'
 feature_row:
   - image_path: /assets/images/hero.jpg
     alt: "hero"
